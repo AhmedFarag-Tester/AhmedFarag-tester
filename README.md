@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**AhmedFarag-Tester/AhmedFarag-tester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmed Farag
 
-Here are some ideas to get you started:
+Junior QA Engineer specialized in Manual Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Skills
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- SDLC & STLC
+- Agile & Scrum basics
+- Java , Python and C basics
+- Trello and Zephyr basics
+- 
+ 📚 Currently Learning
+- ISTQB Foundation Level
+- Software Testing Best Practices
+
+ 📫 Contact
+ Email: ahmed7274farag@gmail.com 
+ LinkedIn:https://www.linkedin.com/in/ahmed-farag-qa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
